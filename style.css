@@ -1,0 +1,22 @@
+html {
+  background-image: url(img/Mad_Libs_logo.png);
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+body {
+  background-color: rgba(128, 128, 128, 0.527);
+  width: 750;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 25px;
+  color: white;
+  height: 800px;
+}
+
+#mad2 {
+  background-color: orange;
+}
